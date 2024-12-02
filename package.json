@@ -1,13 +1,13 @@
 {
   "urls": [
-    ["modbus_tk/__init__.py", "github:ljean/modbus-tk/modbus_tk/__init__.py"],
-    ["modbus_tk/defines.py", "github:ljean/modbus-tk/modbus_tk/defines.py"],
-    ["modbus_tk/hooks.py", "github:ljean/modbus-tk/modbus_tk/hooks.py"],
-    ["modbus_tk/modbus.py", "github:ljean/modbus-tk/modbus_tk/modbus.py"],
-    ["modbus_tk/modbus_rtu.py", "github:ljean/modbus-tk/modbus_tk/modbus_rtu.py"],
-    ["modbus_tk/pymodbusclient.py", "github:ljean/modbus-tk/modbus_tk/pymodbusclient.py"],
-    ["modbus_tk/simulator.py", "github:ljean/modbus-tk/modbus_tk/simulator.py"],
-    ["modbus_tk/utils.py", "github:ljean/modbus-tk/modbus_tk/utils.py"]
+    ["modbus_tk/__init__.py", "github:kaine1973/modbus-tk/modbus_tk/__init__.py"],
+    ["modbus_tk/defines.py", "github:kaine1973/modbus-tk/modbus_tk/defines.py"],
+    ["modbus_tk/hooks.py", "github:kaine1973/modbus-tk/modbus_tk/hooks.py"],
+    ["modbus_tk/modbus.py", "github:kaine1973/modbus-tk/modbus_tk/modbus.py"],
+    ["modbus_tk/modbus_rtu.py", "github:kaine1973/modbus-tk/modbus_tk/modbus_rtu.py"],
+    ["modbus_tk/pymodbusclient.py", "github:kaine1973/modbus-tk/modbus_tk/pymodbusclient.py"],
+    ["modbus_tk/simulator.py", "github:kaine1973/modbus-tk/modbus_tk/simulator.py"],
+    ["modbus_tk/utils.py", "github:kaine1973/modbus-tk/modbus_tk/utils.py"]
   ],
   "version": "1.1.1"
 }
