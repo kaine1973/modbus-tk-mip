@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["modbus_tk/__init__.py", "github:ljean/modbus-tk/modbus_tk/__init__.py"],
+    ["modbus_tk/utils.py", "github:ljean/modbus-tk/modbus_tk/utils.py"]
+  ],
+  "version": "1.1.1"
+}
