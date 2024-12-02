@@ -1,6 +1,7 @@
 {
   "urls": [
     ["modbus_tk/__init__.py", "github:kaine1973/modbus-tk/modbus_tk/__init__.py"],
+    ["modbus_tk/exceptions.py", "github:kaine1973/modbus-tk/modbus_tk/exceptions.py"],
     ["modbus_tk/defines.py", "github:kaine1973/modbus-tk/modbus_tk/defines.py"],
     ["modbus_tk/hooks.py", "github:kaine1973/modbus-tk/modbus_tk/hooks.py"],
     ["modbus_tk/modbus.py", "github:kaine1973/modbus-tk/modbus_tk/modbus.py"],
